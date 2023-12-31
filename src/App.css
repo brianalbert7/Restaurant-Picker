@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+/* NumberSlider css */
+.number-slider {
+  margin: 20px;
+}
+
+.selected-number {
+  margin-top: 10px;
+}
